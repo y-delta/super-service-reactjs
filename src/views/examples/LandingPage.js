@@ -68,7 +68,7 @@ function LandingPage() {
                   <div className="description">
                     <h4 className="info-title">Location</h4>
                     <p>
-                    <br></br>Currently serving Rajanukunte and nearby areas only.
+                    <br></br>Currently serving near and nearby areas only.
                     </p>
                     
                   </div>
@@ -118,8 +118,8 @@ function LandingPage() {
                   </div>
                   <CardBody>              
                       <div className="author">
-                        <CardTitle tag="h4">Namratha G</CardTitle>
-                        <h6 className="card-category">1VA16CS034</h6>
+                        <CardTitle tag="h4">Person 1</CardTitle>
+                        <h6 className="card-category">some deets</h6>
                       </div>
                     <p className="card-description text-center">
                       Handled the design and color scheme across the entire website.
@@ -141,8 +141,8 @@ function LandingPage() {
                   <CardBody>
                     
                       <div className="author">
-                        <CardTitle tag="h4">Namratha KS</CardTitle>
-                        <h6 className="card-category">1VA16CS035</h6>
+                        <CardTitle tag="h4">Person 2</CardTitle>
+                        <h6 className="card-category">some deets</h6>
                       </div>
                     <p className="card-description text-center">
                      Handled login and signup of new users. Used firebase, a google cloud database 
@@ -162,8 +162,8 @@ function LandingPage() {
                   </div>
                   <CardBody>
                       <div className="author">
-                        <CardTitle tag="h4">Yash Dubey</CardTitle>
-                        <h6 className="card-category">1VA16CS060</h6>
+                        <CardTitle tag="h4">Person 3</CardTitle>
+                        <h6 className="card-category">soem deets</h6>
                       </div>
                     <p className="card-description text-center">
                      Responsible for hosting the website and making sure it's responsive across 
